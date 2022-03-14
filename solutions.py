@@ -4,7 +4,7 @@ def solution(A):
     if isAesthetic(A):
         return 0
     
-    for i in range(len(A)-1):
+    for i in range(len(A)):
         ## creating subarrays that excludes current iter of tree
         a = [j for j in A]
         del a[i]
