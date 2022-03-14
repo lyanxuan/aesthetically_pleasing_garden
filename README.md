@@ -1,7 +1,4 @@
-## aesthetically_pleasing_garden
-
-#**Problem Statement**
-
+###**Problem Statement**
 Jimmy owns a garden in which he has planted N trees in a row. After a few years, the trees have grown up and now they have different heights.
 
 Jimmy pays much attention to the aesthetics of his garden. He finds his trees aesthetically pleasing if they alternately increase and decrease in height (…, shorter, taller, shorter, taller, …).
