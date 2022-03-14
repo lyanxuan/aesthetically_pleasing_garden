@@ -28,3 +28,5 @@ Assume that:
 
     N is an integer within the range [4..200];
     each element of array A is an integer within the range [1..1,000].
+
+The solution of this question is answered in Python.
